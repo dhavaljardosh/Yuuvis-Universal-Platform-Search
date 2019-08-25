@@ -1,3 +1,11 @@
+body{
+  background: silver;
+}
+
+.MuiSwitch-colorSecondary.Mui-checked + .MuiSwitch-track{
+  background-color: #a89ef9 !important;
+}
+
 .App {
   text-align: center;
 }
